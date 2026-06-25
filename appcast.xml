@@ -9,12 +9,13 @@
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+2/release_notes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Fri, 26 Jun 2026 01:38:32 +0800</pubDate>
+            <pubDate>Fri, 26 Jun 2026 01:54:30 +0800</pubDate>
             <enclosure url="https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+2/KCP%20StockFlow%20v1.0.0+2.exe"
-                       sparkle:dsaSignature="MD4CHQCjKNC4ZDn3PIUP0i0ABxnBTE4RfA2+Oef1FYugAh0AyvnJiT2NGZLFTNt+BfcPPOEDXIIJofzGkhFONg=="
+                       sparkle:dsaSignature="MD0CHG+OA1suDNOQFjYCWmmHO5fFj+UXxiaq0fwMTc0CHQDy38xKlXw9K5A5vNwa
+y1rfYWUe5lUzsUP+VQR6"
                        sparkle:version="1.0.0+2"
                        sparkle:os="windows"
-                       length="12622606"
+                       length="0"
                        type="application/octet-stream"
                        sparkle:installerArguments="/SILENT /SP- /RUNAFTER"/>
             <sparkle:criticalUpdate></sparkle:criticalUpdate>
